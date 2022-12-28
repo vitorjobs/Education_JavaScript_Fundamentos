@@ -1,4 +1,4 @@
-# 📑 Sobre o Curso:
+# 📑 Sobre o Curso
 
-- Variáveis.
+- Cap 01: Variáveis | String Numbers | Operadores
 - Tipos de dados.
