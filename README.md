@@ -1,1 +1,4 @@
-📑 - Sobre o Curso: 
+# 📑 Sobre o Curso:
+
+- Variáveis.
+- Tipos de dados.
